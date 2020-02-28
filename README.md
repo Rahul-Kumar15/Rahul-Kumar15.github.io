@@ -5,7 +5,7 @@
  Markdown is open source free software,which means that anyone can use it.
  **John Gruber** is the original creator of Markdown.
  
- ## Should I Use Markdown Editor?
+ **Should I Use Markdown Editor?**
     Just like anything,Markdown a good choice if your project need suited to it. Markdown has limiter functionality because of the way designed.This makes some people swear by it and some people hate it.So, this is totally upon you guys!
     
   
