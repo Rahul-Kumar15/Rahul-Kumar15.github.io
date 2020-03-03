@@ -23,10 +23,11 @@
           - Emails
           - Documentation
           
+    
     3. Nowadays,many tech writers have their blog,for example,here is my webpage.So, any technical writer can use Markdown for their and blogs.
        For example,it's easy to use Markdown Medium,here is a tool that makes it easy to go from Markdown to a Medium post.So, your post formatting will be saved and represented in a medium post.
        
-    4. **How does Markdown work in documentation?**
+    **How does Markdown work in documentation?**
            To work with Markdown, create a file with .Markdown or .md extension.Write your text as you usually do it but using Markdown syntax.Then save your file and, if your tool supports Markdown,import it.
            
        ``Of course, Markdown is great because it's easy!``
